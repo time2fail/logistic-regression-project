@@ -31,7 +31,7 @@ The dataset used in this project was provided as part of a Udemy course for educ
 ⚠️ For this reason, the raw dataset file is **not included in this repository**.  
 
 If you are following along with the same course, you should already have access to the dataset.  
-Otherwise, you can replace it with any dataset that has similar structure (categorical + numerical features suitable for classification).
+Otherwise, you can replace it with any dataset that has a similar structure (categorical + numerical features suitable for classification).
 
 ---
 
@@ -44,3 +44,10 @@ Some of the visualizations included:
 
 ---
 
+## 🚀 How to Run
+1. Clone the repository, install dependencies, and open the notebook:
+   ```bash
+   git clone https://github.com/time2fail/logistic-regression-project.git
+   cd logistic-regression-project
+   pip install -r requirements.txt
+   jupyter notebook logistic_regression_project-1.ipynb
